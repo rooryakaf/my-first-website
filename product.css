@@ -1,0 +1,94 @@
+*{
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+}
+
+header{
+    height: 10%;
+    text-align: center;
+    line-height: 43px;
+    vertical-align: top;
+    background-color:darkslateblue;
+border-radius: 25px;
+}
+header div{
+    display: inline-block;
+    
+}
+header div a {
+    text-decoration: none;
+  color: bisque;
+   margin-left: 45px;
+ margin-right: 26px;
+
+}
+header h1{
+    display: inline-block;
+   margin-top:8px;
+   margin-right: 100px;
+   color: bisque;
+}
+header form{
+    display: inline-block;
+    margin: 0 100px 0 60px;
+
+}
+a{
+    margin: 0 10px 10px 10px;
+  
+}
+img{
+    width: 220px;
+    border-radius: 25px;
+    margin: 6px;
+}
+.product{
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+   margin: 50px 10px 0 56px;
+    background-color:darkslateblue;
+   padding: 25px 0 0 0;
+   border-radius: 25px;
+}
+button{
+    width: 200px;
+    height: 45px;
+background-color:white;
+color: black;
+border: 1px solid black;
+margin-top: 5px;
+}
+footer{
+    background-color:darkslateblue;
+       margin: 25px 0 0 0;
+       text-align: center;
+        border-radius: 25px;
+}
+.ende{
+    display: inline-block;
+    width: 400px;
+    margin: 0 40px 0 40px;
+
+}
+.button{
+background-color: darkslateblue;
+    margin-top: 10px;
+    text-align: center;
+       border-radius: 25px; 
+}
+.buy img{
+    width: 60px;
+    display: inline-block;
+}
+.buy{
+    text-align: left;
+    display:block;
+}
+.inline{
+    background-color:bisque;
+    width: 290px;
+    display: inline-block;
+    height: 290px;
+    border-radius: 25px;
+}
